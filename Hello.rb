@@ -9,7 +9,7 @@ class GameWindow < Gosu::Window
   end
 
   def draw
-    @message.draw(11, 11, 0)
+    @message.draw(10, 10, 0)
   end
 end
 
